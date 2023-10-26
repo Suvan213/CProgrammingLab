@@ -15,6 +15,6 @@ for (i=0;i<n;++i)
         maximum=num;
     }
 }
-    printf("maximum number is:%2f\n",maximum);
+    printf("maximum number is:%.2f\n",maximum);
 return 0;
 }
